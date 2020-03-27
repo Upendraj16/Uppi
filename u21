@@ -1,3 +1,8 @@
 this is u21 file
 this is in uppi2 branch
+<<<<<<< HEAD
 3rd line added
+=======
+this upendra
+am in hyd
+>>>>>>> 810edeb9fd917dad171188e61d39d95c54b18850
